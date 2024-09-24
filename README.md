@@ -10,3 +10,9 @@ to Moodle VPL:
 ```java
 package some_package;
 ```
+
+You can ignore the following line in the code as well:
+
+```java
+@SuppressWarnings("unused")
+```
