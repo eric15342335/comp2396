@@ -26,3 +26,5 @@ SORT_MEMBER_DOCS       = YES
 SORT_MEMBERS_CTORS_1ST = YES
 HIDE_UNDOC_RELATIONS   = NO
 SHOW_GROUPED_MEMB_INC  = YES
+HTML_HEADER            = .github/header.html
+HTML_FOOTER            = .github/footer.html
