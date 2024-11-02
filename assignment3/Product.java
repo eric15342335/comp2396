@@ -12,4 +12,21 @@ public class Product {
 	
 	/* You may add other properties and methods */
 
+	// getters
+	public String getName() {
+		return name;
+	}
+
+	public int getPrice() {
+		return price;
+	}
+
+	public int getQuantity() {
+		return quantity;
+	}
+
+	// setters
+	public void setQuantity(int quantity) {
+		this.quantity = quantity;
+	} 
 }

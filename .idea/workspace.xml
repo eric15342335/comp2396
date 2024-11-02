@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccf50f4-2e87-44c1-bae4-4c50fa79fc71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assignment2/BadGun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment2/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment2/OfficeCombat1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment2/OfficeCombat2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment2/SecurityGuard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment2/SuperGun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial3/tutorial3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial4/part2/ElectronicsProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial4/part2/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial4/part2/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial4/part3/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial4/part3/q3/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial4/part3/q3/Guest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial4/part3/q3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial4/part3/q4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial4/part3/q4/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comp2396.iml" beforeDir="false" afterPath="$PROJECT_DIR$/comp2396.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pastpaper/pastpaper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pastpaper/pastpaper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment3/CmdInsertCoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/CmdInsertCoin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +59,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
       </set>
     </attachedChunks>
   </component>
@@ -102,6 +80,9 @@
       <workItem from="1729488271885" duration="216000" />
       <workItem from="1729488553237" duration="301000" />
       <workItem from="1729488861082" duration="8000" />
+      <workItem from="1730526267121" duration="293000" />
+      <workItem from="1730526845158" duration="2266000" />
+      <workItem from="1730532336485" duration="361000" />
     </task>
     <servers />
   </component>
